@@ -19,8 +19,6 @@ Primary motivation of hexagonal architecture is decoupling components to manage 
 
 ## Authors
 
-Contributors names and contact info
-
 [@firatpayalan](https://twitter.com/firatfirat_)
 
 ## Acknowledgments
